@@ -1,0 +1,10 @@
+# SPDX-FileCopyrightText: 2026 The halogenOS Project
+# SPDX-License-Identifier: Apache-2.0
+
+type hal_custom_media_codec_default, domain;
+hal_server_domain(hal_custom_media_codec_default, hal_custom_media_codec)
+
+type hal_custom_media_codec_default_exec, exec_type, vendor_file_type, file_type;
+init_daemon_domain(hal_custom_media_codec_default)
+
+binder_call(hal_custom_media_codec_default, servicemanager)

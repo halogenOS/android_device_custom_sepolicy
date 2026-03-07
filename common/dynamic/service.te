@@ -1,0 +1,4 @@
+# SPDX-FileCopyrightText: 2026 The halogenOS Project
+# SPDX-License-Identifier: Apache-2.0
+
+type hal_custom_media_codec_service, hal_service_type, service_manager_type;

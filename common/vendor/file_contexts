@@ -1,0 +1,4 @@
+# SPDX-FileCopyrightText: 2026 The halogenOS Project
+# SPDX-License-Identifier: Apache-2.0
+
+/vendor/bin/hw/custom\.media\.codec\.features-service\.default    u:object_r:hal_custom_media_codec_default_exec:s0

@@ -1,0 +1,7 @@
+# SPDX-FileCopyrightText: 2026 The halogenOS Project
+# SPDX-License-Identifier: Apache-2.0
+
+# HwBinder IPC from client to server
+binder_call(hal_custom_media_codec_client, hal_custom_media_codec_server)
+
+hal_attribute_service(hal_custom_media_codec, hal_custom_media_codec_service)
