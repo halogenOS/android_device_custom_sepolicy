@@ -3,3 +3,4 @@
 
 # Custom HALs
 hal_attribute_custom(custom_media_codec)
+hal_attribute_custom(custom_hardware_display_ltpo)

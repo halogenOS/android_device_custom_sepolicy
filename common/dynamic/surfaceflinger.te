@@ -1,0 +1,4 @@
+# SPDX-FileCopyrightText: 2026 The halogenOS Project
+# SPDX-License-Identifier: Apache-2.0
+
+hal_client_domain(surfaceflinger, hal_custom_hardware_display_ltpo)

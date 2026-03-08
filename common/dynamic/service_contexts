@@ -1,4 +1,5 @@
 # SPDX-FileCopyrightText: 2026 The halogenOS Project
 # SPDX-License-Identifier: Apache-2.0
 
-custom.media.codec.ICodecFeatures/default    u:object_r:hal_custom_media_codec_service:s0
+custom.media.codec.ICodecFeatures/default                      u:object_r:hal_custom_media_codec_service:s0
+custom.hardware.display.ltpo.ILtpoControl/default              u:object_r:hal_custom_hardware_display_ltpo_service:s0
