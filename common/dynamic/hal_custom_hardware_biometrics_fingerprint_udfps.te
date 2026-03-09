@@ -1,0 +1,6 @@
+# SPDX-FileCopyrightText: 2026 The halogenOS Project
+# SPDX-License-Identifier: Apache-2.0
+
+binder_call(hal_custom_hardware_biometrics_fingerprint_udfps_client, hal_custom_hardware_biometrics_fingerprint_udfps_server)
+
+hal_attribute_service(hal_custom_hardware_biometrics_fingerprint_udfps, hal_custom_hardware_biometrics_fingerprint_udfps_service)

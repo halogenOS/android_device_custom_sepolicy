@@ -2,3 +2,4 @@
 # SPDX-License-Identifier: Apache-2.0
 
 hal_client_domain(surfaceflinger, hal_custom_hardware_display_ltpo)
+hal_client_domain(surfaceflinger, hal_custom_hardware_biometrics_fingerprint_udfps)

@@ -4,3 +4,4 @@
 # Custom HALs
 hal_attribute_custom(custom_media_codec)
 hal_attribute_custom(custom_hardware_display_ltpo)
+hal_attribute_custom(custom_hardware_biometrics_fingerprint_udfps)
